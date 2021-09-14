@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZainabIftikhar1204
 - 👀 I’m interested in Web Development and Machine Learning and learning about new things every day generally!
-- 🌱 I’m currently learning We Development with React.
+- 🌱 I’m currently learning Web Development with React.
 - 💞️ I’m looking to collaborate on Web projects or Machine Learning projects to put my learning to practical use!
 - 📫 You can reach me at ziftikhar04@gmail.com 
 
